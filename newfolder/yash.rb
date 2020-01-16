@@ -1,3 +1,3 @@
 gets "input"
 
-puts "hey"
+puts "hey!"
